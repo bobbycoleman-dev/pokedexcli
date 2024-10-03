@@ -1,0 +1,4 @@
+github.com/bobbycoleman-dev/pokeapi v0.0.0-20241003142635-3e9bc689f92b h1:P6VgQc1RJGyj1ofFHTWsLZN0VNfj758AhMfV9zGgHlE=
+github.com/bobbycoleman-dev/pokeapi v0.0.0-20241003142635-3e9bc689f92b/go.mod h1:Vv96PbpKgrCj0RkyOGSDqTHucXIGbbEYHHcm5p3/WJU=
+github.com/bobbycoleman-dev/pokecache v0.0.0-20241003142117-81c8c2da5d78 h1:h39STcvS9rUKhCFjw530rkhymAawMig47eSH++qpVeM=
+github.com/bobbycoleman-dev/pokecache v0.0.0-20241003142117-81c8c2da5d78/go.mod h1:7CnKgb94a5FcbMlb1G/ovNdRqcmapKLHArPJRpvLh+c=
